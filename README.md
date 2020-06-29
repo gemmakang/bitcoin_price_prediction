@@ -5,7 +5,8 @@
 Bitcoin Price Prediction Using LSTM vs ARIMA, combined with Google Trends data.
 
 
-**Result**
+
+**Result:**
 
 LSTM model was found to perform better than ARIMA model. 
 
